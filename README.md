@@ -1,11 +1,5 @@
 <h1 align="center">Olá 👋, me chamo William Safra Lopes</h1>
-<img style=margin: 0;
-    background: yellow;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%)" src="https://media-exp1.licdn.com/dms/image/C4D1BAQE6bLhNhz6enA/company-background_10000/0/1580836004843?e=1629727200&v=beta&t=OmH7qFEpyDn63isgWH6y_HbaJIrAqPWbcquI4HR6tGc" width="405" height="70" alt="FATEC-SP">
+<img style="margin: 0; position: absolute; top: 50%; left: 50%; margin-right: -50%; transform: translate(-50%, -50%)" src="https://media-exp1.licdn.com/dms/image/C4D1BAQE6bLhNhz6enA/company-background_10000/0/1580836004843?e=1629727200&v=beta&t=OmH7qFEpyDn63isgWH6y_HbaJIrAqPWbcquI4HR6tGc" width="405" height="70" alt="FATEC-SP">
 <h3 align="center">🔭 Estudante em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São Paulo</h3>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=safra-man&label=Profile%20views&color=0e75b6&style=flat" alt="safra-man" /> </p>
