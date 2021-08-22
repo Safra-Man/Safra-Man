@@ -5,7 +5,7 @@
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safra-man" alt="safra-man" /></a> </p>
 <br>
-<p align="center"> 🔭 Atualmente eu estudo o curso **Tecnólogo em Análise e Desenvolvimento de Sistemas** </p>
+<h2 align="center"><strong>🔭 Atualmente sou estudante em Análise e Desenvolvimento de Sistemas</strong></h2>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
