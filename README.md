@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo William Safra Lopes</h1>
-<img align="center" style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://media-exp1.licdn.com/dms/image/C4D1BAQE6bLhNhz6enA/company-background_10000/0/1580836004843?e=1629727200&amp;v=beta&amp;t=OmH7qFEpyDn63isgWH6y_HbaJIrAqPWbcquI4HR6tGc" width="405" height="70">
+<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D1BAQE6bLhNhz6enA/company-background_10000/0/1580836004843?e=1629727200&amp;v=beta&amp;t=OmH7qFEpyDn63isgWH6y_HbaJIrAqPWbcquI4HR6tGc" width="405" height="70">
 <h3 align="center">🔭 Estudante em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São Paulo</h3>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=safra-man&label=Profile%20views&color=0e75b6&style=flat" alt="safra-man" /> </p>
