@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, me chamo William Safra Lopes</h1>
 <p align="center">
-<img src="https://lh3.googleusercontent.com/proxy/yvyXojbd7plgNXQK-ouwS_fynqPYX2CBUrP358ObjN2zmEsN0Qg3nQ5heCdJIs1RIWFH66Guu-Gkt8m4vKfzLiyF" width="655" height="90" alt="FATEC-SP"></p>
+<img src="https://lh3.googleusercontent.com/proxy/_3dwhyCWwCWEQiiciR4qfu62MpQLPMnUiU5g6bPSq-XcBHze6IFJM_drEky0DfJVb5aK9sQgIigUOT96GJ5BWGoGCfj9EmVLnvAlXJZFRjjYNq6Nq3Uyn_pTGghYs1Hg_wyqenQjcg7h8ouR-hiHLktt1a9B13WbCNzrMA" width="655" height="90" alt="FATEC-SP"></p>
 <h3 align="center">🔭 Estudante em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São Paulo</h3>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=safra-man&label=Profile%20views&color=0e75b6&style=flat" alt="safra-man" /> </p>
