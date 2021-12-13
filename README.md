@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, me chamo William Safra Lopes <href="https://www.linkedin.com/in/william-safra-55aa84120/"><img align="center" alt="LinkdeIN" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a></p></h1><a target="_blank">
+<h1 align="center">Olá 👋, me chamo William Safra Lopes <img align="center" alt="LinkdeIN" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://br.linkedin.com/in/william-safra"/></a></p></h1><a target="_blank">
 <p align="center">
 <h3 align="center">🔭 Estudante em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São Paulo</h3>
 <br>
